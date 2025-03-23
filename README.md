@@ -13,9 +13,9 @@
 
 ## ⚡ Fun Fact
 - I’m the proud founder of **XenArcAI**!
-# 🤖 AI Mastery Mind Map  
+# 🤖 MY EXPERTIES  
 
-## 🌟 Core Areas  
+## 🌟 Core 
 - 🧠 Empathy Modeling  
 - 💬 Emotion Recognition  
 - 📝 Sentiment Analysis  
