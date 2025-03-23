@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @parveshiiii
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me - pr086832@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: iam the founder of XenArcAI
+# 👋 Hi, I’m @parveshiiii  
 
-<!---
-parveshiiii/parveshiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me
+- **Interested in:** AI, Machine Learning, and Deep Learning  
+- 🌱 **Currently Learning:** Coding and advanced algorithms  
+- 💞️ **Looking to Collaborate On:** Exciting projects in AI  
+
+## 📫 How to Reach Me
+- Email: pr086832@gmail.com  
+
+## 😄 Pronouns
+- MEN 
+
+## ⚡ Fun Fact
+- I’m the proud founder of **XenArcAI**!
