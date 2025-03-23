@@ -13,3 +13,21 @@
 
 ## ⚡ Fun Fact
 - I’m the proud founder of **XenArcAI**!
+# 🤖 AI Mastery Mind Map  
+
+## 🌟 Core Areas  
+- 🧠 Empathy Modeling  
+- 💬 Emotion Recognition  
+- 📝 Sentiment Analysis  
+- ❤️ Emotional Intelligence  
+
+## 🔧 Deep Learning Tools  
+- 🔷 TensorFlow  
+- 🔶 PyTorch  
+- 🧩 NLP Models: BERT, GPT  
+
+## 🖥️ Tech Stack  
+- 🐍 Python  
+- 📦 Docker  
+- ☁️ Kubernetes  
+- 🌐 Cloud: AWS  
