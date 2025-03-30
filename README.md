@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @parveshiiii  
+# 👋 Hi, I’m Parvesh Rawal AKA @parveshiiii  
 
 ## 👀 About Me
 - **Interested in:** AI, Machine Learning, and Deep Learning  
