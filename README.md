@@ -88,9 +88,6 @@ The arsenal powering my one-man AI revolution:
 Here’s a chart showcasing my focus across AI, data science, and interdisciplinary domains:
 ![chart](https://github.com/user-attachments/assets/c45342b0-58c8-4bca-aff8-6a76d0853f5d)
 
-
-```
-
 ---
 
 ## 💡 Why Collaborate with the One Man Army?
