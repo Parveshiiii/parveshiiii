@@ -14,7 +14,7 @@ I’m a one-man army, single-handedly tackling complex challenges to build AI th
 - ⚡ **Fun Fact:** As the One Man Army, I’m building XenArcAI to create AI that’s not just intelligent but transformative, blending tech, physics, and math to solve real-world problems!  
 
 ## 📬 Connect with Me
-- 📧 **Email:** [team@xenaracai.com](mailto:team@xenaracai.com)  
+- 📧 **Email:** [team@xenarcai.com](mailto:team@xenarcai.com)  
 - 🐦 **X Profile:** [@parveshiiii](https://x.com/parveshiiii) (update with verified handle)  
 - 🤗 **Hugging Face:** [huggingface.co/parveshiiii](https://huggingface.co) (update with your HF profile)  
 - 🐙 **GitHub:** [github.com/parveshiiii](https://github.com) (update with your GitHub profile)  
@@ -97,12 +97,4 @@ Here’s a chart showcasing my focus across AI, data science, and interdisciplin
 - **Open-Source Leader:** Sharing tools and models on [Hugging Face](https://huggingface.co) and [GitHub](https://github.com).  
 - **One Man Army:** Tackling complex challenges single-handedly with unmatched versatility and drive.  
 
-Let’s build India’s AI future together! Reach out at [team@xenaracai.com](mailto:team@xenaracai.com), [X @parveshiiii](https://x.com/parveshiiii), or [Hugging Face](https://huggingface.co). 🚀
-
-Hugging Face**, **GitHub**, **X**, or **XenArcAI website** links for precise integration.
-- **Research Details:** Share specifics on your hierarchical memory or HLSA research (e.g., papers, repos, or demos) to highlight achievements.
-- **Images:** Upload a XenArcAI logo or research visuals for inclusion.
-- **X Search:** Approve a deeper X search for “@parveshiiii” or “XenArcAI” to find relevant posts or projects.
-- **Chart Tweaks:** Request a different chart (e.g., bar chart for research milestones) if desired.
-
-What do you think, bro? Want to add more research specifics, tweak the tone, or expand anything else? I’m ready to make it even bigger! 🚀
+Let’s build India’s AI future together! Reach out at [team@xenarcai.com](mailto:team@xenaracai.com), [X @parveshiiii](https://x.com/parveshiiii), or [Hugging Face](https://huggingface.co). 🚀
