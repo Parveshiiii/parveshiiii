@@ -86,35 +86,9 @@ The arsenal powering my one-man AI revolution:
 
 ## 📊 My Expertise Breakdown
 Here’s a chart showcasing my focus across AI, data science, and interdisciplinary domains:
+![chart](https://github.com/user-attachments/assets/c45342b0-58c8-4bca-aff8-6a76d0853f5d)
 
-```chartjs
-{
-  "type": "pie",
-  "data": {
-    "labels": ["Hierarchical Memory", "HLSA Attention", "Data Curation", "AGI Research", "Generative AI", "Physics & Math"],
-    "datasets": [{
-      "data": [25, 20, 20, 15, 15, 5],
-      "backgroundColor": ["#4CAF50", "#2196F3", "#FFC107", "#FF5722", "#9C27B0", "#00BCD4"],
-      "borderColor": ["#388E3C", "#1976D2", "#FFB300", "#E64A19", "#7B1FA2", "#0097A7"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "responsive": true,
-    "plugins": {
-      "legend": {
-        "position": "top",
-        "labels": { "color": "#333" }
-      },
-      "title": {
-        "display": true,
-        "text": "Parvesh Rawal's One Man Army Expertise",
-        "color": "#333",
-        "font": { "size": 16 }
-      }
-    }
-  }
-}
+
 ```
 
 ---
