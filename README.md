@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 I’m Parvesh Rawal | @parveshiiii | The One Man Army of AI & XenArcAI Founder
+# 👋 I’m Parvesh Rawal | @parveshiiii | 
 
 ## 🌌 About Me
 I’m **Parvesh Rawal**
