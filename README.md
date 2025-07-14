@@ -4,9 +4,7 @@
 # 👋 I’m Parvesh Rawal | @parveshiiii | The One Man Army of AI & XenArcAI Founder
 
 ## 🌌 About Me
-I’m **Parvesh Rawal**, the **One Man Army** and **Founder of XenArcAI**, a trailblazer in **Artificial Intelligence (AI)**, **Artificial General Intelligence (AGI)**, and **India’s homegrown AI revolution**. As an **AI researcher**, I’m pushing the boundaries of innovation with groundbreaking work in **hierarchical memory systems**, **HLSA (Hierarchical Latent Space Attention) mechanisms**, and **data curation** for scalable, culturally relevant AI models. My expertise spans **data science**, **machine learning (ML)**, **deep learning (DL)**, **generative AI**, **physics**, **mathematics**, and beyond, making me a versatile force in tech and science.
-
-I’m a one-man army, single-handedly tackling complex challenges to build AI that reflects India’s linguistic and cultural diversity. My mission with XenArcAI is to position India as a global AI powerhouse, creating models that rival the best in the world.
+I’m **Parvesh Rawal**
 
 - 🌟 **Research Interests:** Hierarchical Memory, HLSA Attention, AGI, Generative AI, Data Curation, Multilingual AI, Physics, Mathematics  
 - 🌱 **Current Work:** Curating multilingual datasets for India’s homegrown AI, advancing hierarchical memory architectures, and developing HLSA attention mechanisms  
