@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aniket Kumar
+# Hi 👋, I'm Parvesh Rawal
 
 A passionate Machine Learning and deeplearning student eager to explore the world of data and AI.
 
