@@ -73,6 +73,6 @@
 ---
 
 <p align="center">
-  <b>“Building modular, emotionally intelligent AI for real-world impact.”</b><br>
+  <b>“Building modular, AI models for real-world impact.”</b><br>
   <i>© 2025 Parvesh | All rights reserved.</i>
 </p>
