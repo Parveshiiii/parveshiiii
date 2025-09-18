@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BA01&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Parvesh;AI%2FML+Engineer+%26+Systems+Architect;Building+Modular+%26+Reproducible+AI;Open-Source+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BA01&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Parvesh;AI%2FML+Engineer+%26+Systems+Architect;Python%2C+C%2B%2B%2C+Java%2C+JavaScript;Linux+%26+Arch+Linux+Power+User;Open-Source+Advocate" alt="Typing SVG" />
 </p>
 
 <!-- Trophy Section -->
@@ -24,8 +24,28 @@
 <!-- Toolbox -->
 <div align="center">
   <h3>🛠 My Toolbox</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,css,git,linux,vscode" height="48" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,bash,git,linux,arch,vscode,react,nextjs,fastapi" height="48" />
 </div>
+
+---
+
+<!-- Detailed Skills -->
+<h3 align="center">📚 Detailed Skills Overview</h3>
+
+**Languages:**  
+`Python` • `C++` • `Java` • `JavaScript` • `Bash`
+
+**Frameworks & Libraries:**  
+`FastAPI` • `React` • `Next.js` • `TailwindCSS` • `PyTorch` • `NumPy` • `Pandas`
+
+**Tools & Platforms:**  
+`Git` • `Docker` • `Linux` • `Arch Linux` • `Ubuntu` • `Windows` • `VS Code`
+
+**Specialties:**  
+- Modular AI workflow orchestration  
+- Model benchmarking & optimization  
+- Branding & ASCII/dot motif design  
+- Linux system tuning for AI workloads  
 
 ---
 
