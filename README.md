@@ -58,7 +58,7 @@
 <!-- Featured Project -->
 <h3 align="center">⭐ Featured Project</h3>
 <p align="center">
-  <a href="https://github.com/Parveshiiii/ByteOtter">
+  <a href="https://github.com/Parveshiiii">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parveshiiii&repo=ByteOtter&theme=radical&border_radius=10" />
   </a>
 </p>
