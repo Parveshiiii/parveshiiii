@@ -55,24 +55,6 @@
 
 ---
 
-<!-- Featured Project -->
-<h3 align="center">⭐ Featured Project</h3>
-<p align="center">
-  <a href="https://github.com/Parveshiiii">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Parveshiiii&repo=ByteOtter&theme=radical&border_radius=10" />
-  </a>
-</p>
-
----
-
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats & Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parveshiiii&show_icons=true&theme=radical&count_private=true&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parveshiiii&layout=compact&theme=radical&border_radius=10" />
-</p>
-
----
 
 <!-- Contributions -->
 <h3 align="center">📈 Total Contributions</h3>
