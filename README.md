@@ -29,26 +29,6 @@
 
 ---
 
-<!-- Detailed Skills -->
-<h3 align="center">📚 Detailed Skills Overview</h3>
-
-**Languages:**  
-`Python` • `C++` • `Java` • `JavaScript` • `Bash`
-
-**Frameworks & Libraries:**  
-`FastAPI` • `React` • `Next.js` • `TailwindCSS` • `PyTorch` • `NumPy` • `Pandas`
-
-**Tools & Platforms:**  
-`Git` • `Docker` • `Linux` • `Arch Linux` • `Ubuntu` • `Windows` • `VS Code`
-
-**Specialties:**  
-- Modular AI workflow orchestration  
-- Model benchmarking & optimization  
-- Branding & ASCII/dot motif design  
-- Linux system tuning for AI workloads  
-
----
-
 <!-- Social -->
 <div align="center">
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
