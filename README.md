@@ -31,8 +31,18 @@
 
 <!-- Social -->
 <div align="center">
-  <a href="https://www.instagram.com/parveshiiii.dev/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/parveshiiii.dev/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://x.com/Parveshiiii">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/parvesh-rawal/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 ---
